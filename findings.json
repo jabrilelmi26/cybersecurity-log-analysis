@@ -1,0 +1,10 @@
+[
+  {
+    "user": "alice",
+    "source_ip": "192.0.2.44",
+    "first_failure": "2026-10-02T09:00:00Z",
+    "failed_attempts_in_window": 3,
+    "success_after_failures": true,
+    "assessment": "Review authentication context; not proof of compromise"
+  }
+]
